@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg {
+    background-color: #d5e1ef;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    align-content: center;
+    justify-items: center;
+}
+
+.innerbox {
+    background-color: white;
+    width: 300px;
+    height: 450px;
+    border-radius: 10px;
+}
